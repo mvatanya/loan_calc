@@ -1,0 +1,5 @@
+input[type=number] {
+  padding: 12px 20px;
+  margin: 8px 10px;
+  box-sizing: border-box;
+}
